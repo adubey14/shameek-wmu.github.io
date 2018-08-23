@@ -61,13 +61,13 @@ Workshop Dates:  Jan 4-7, 2019
 
 #### Steering Committee
 
-  Sajal K. Das, Missouri University of Science and Technology, Rolla, MO, USA
+  Sajal K. Das, Missouri University of Science and Technology, USA
   
 #### Publicity Chair
    
-  Shameek Bhattacharjee, Western Michigan University 
+  Shameek Bhattacharjee, Western Michigan University, USA
   
-  #### Technical Program Committee
+#### Technical Program Committee
      
-      Nirnay Ghosh, SUTD
+   Nirnay Ghosh, SUTD, Singapore
   
