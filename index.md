@@ -59,11 +59,11 @@ Workshop Dates:  Jan 4-7, 2019
    Hirozumi Yamaguchi, Osaka University 
    (Contact: h-yamagu@ist.osaka-u.ac.jp)
 
-  #### Steering Committee
+#### Steering Committee
 
   Sajal K. Das, Missouri University of Science and Technology, Rolla, MO, USA
   
-  #### Publicity Chair
+#### Publicity Chair
    
   Shameek Bhattacharjee, Western Michigan University 
   
