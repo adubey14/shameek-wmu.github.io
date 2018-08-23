@@ -29,25 +29,31 @@ Topics of interest include but not limited to:
 (x) Smart Grid, Transportation and Infrastructure Security and Privacy.
 
 (xi)  Modeling Cascading Effects of Security Breaches in Smart Connected Communities
+
 (xii)  Real Case Studies on Live SCC Systems.
 
 
 ### Important Dates
 
 Opening of Workshop Papers Acceptance: 31 August 2018
+
 Deadline for workshop paper submission: 30th September 2018
+
 Acceptance/Rejection of the Papers: 30th October 2018
+
 Camera-Ready Papers Version Due: 15th November 2018
+
 Workshop Dates:  Jan 4-7, 2019
 
-### Organizing
+### Program Chairs
 
-   Program Chairs
-
-    Shameek Bhattacharjee, Western Michigan University (shameek DOT bhattacharjee AT wmich DOT edu)
-    Abhishek Dubey, Vanderbilt University, (abhishek.dubey@vanderbilt.edu)
-    Keiichi Yasumoto, Nara Institute of Science and Technology (yasumoto@is.naist.jp)
-    Hirozumi Yamaguchi, Osaka University (h-yamagu@ist.osaka-u.ac.jp)
+   Shameek Bhattacharjee, Western Michigan University (shameek DOT bhattacharjee AT wmich DOT edu)
+    
+   Abhishek Dubey, Vanderbilt University, (abhishek.dubey@vanderbilt.edu)
+   
+   Keiichi Yasumoto, Nara Institute of Science and Technology (yasumoto@is.naist.jp)
+    
+   Hirozumi Yamaguchi, Osaka University (h-yamagu@ist.osaka-u.ac.jp)
 
   #### Steering Committee
 
