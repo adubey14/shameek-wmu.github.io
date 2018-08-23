@@ -48,15 +48,19 @@ Workshop Dates:  Jan 4-7, 2019
 ### Program Chairs
 
    Shameek Bhattacharjee, Western Michigan University 
+   
    (Contact: shameek.bhattacharjee@wmich.edu)
     
    Abhishek Dubey, Vanderbilt University, 
+   
    (Contact: abhishek.dubey@vanderbilt.edu)
    
    Keiichi Yasumoto, Nara Institute of Science and Technology 
+   
    (Contact: yasumoto@is.naist.jp)
     
    Hirozumi Yamaguchi, Osaka University 
+   
    (Contact: h-yamagu@ist.osaka-u.ac.jp)
 
 #### Steering Committee
