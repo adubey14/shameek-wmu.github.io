@@ -1,35 +1,12 @@
-## Welcome to GitHub Pages
+## Pervasive Security for Smart Connected Communities Workshop
 
-You can use the [editor on GitHub](https://github.com/shameek-wmu/persec3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The 20th International Conference on Distributed Computing and Networking (ICDCN 2019), to be held between Jan 4-7, 2019 at Indian Institute of Sciences, Bangalore, India will have a workshop on security privacy and dependability in Smart and Connected Communities titled PerSeC3.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Call for Papers 
 
-### Markdown
+Smart Connected Communities consist of multiple pervasive and ubiquitous application domains (for e.g., smart electrical grid, smart transportation, wireless networks) that coexist and interact with each other simultaneously to improve quality of life in every aspect of human existence. Any breach in one of these applications, has a direct and immediate civilian and economic impact. To make matters worse, breaches in one of the applications often have cascading effects on other interdependent applications under the umbrella of smart and connected communities. Often inputs from humans-in-the-loop are utilized for decision making in connected communities. Such human in the loop driven applications suffer from threats such as selfish and malicious intent and wrong human perception. Additionally, privacy is a challenge that needs to be addressed apart from security to ensure both customers as well as providers are willing to embrace such smart connected and ubiquitous environments. This workshop will provide a platform for researchers and professionals from academia, government, and industry to discuss how to address pressing concerns of cyber, physical and human aspects of pervasive security and privacy in smart connected communities. Apart from papers focusing on just security or privacy separately, we also encourage submissions which investigate end to end security mechanisms that account for security, privacy and resource challenges simultaneously.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-Pervasive Security for Smart Connected Communities
-
-## Header 2
-
-Important Dates 
-### Header 3
-
-Technical Program Committee
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
