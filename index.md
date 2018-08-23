@@ -9,17 +9,28 @@ Smart Connected Communities consist of multiple pervasive and ubiquitous applica
 Topics of interest include but not limited to: 
 
 (i) Anomaly Detection in Smart Connected Communities
+
 (ii) Trust Models for Rogue Component Identification
+
 (iii) Crowdsensing Security and Privacy  
+
 (iv) Security vs Privacy Tradeoffs in Smart Connected Communities
+
 (v) Online reasoning for trustworthy and dependable decision making
+
 (vi) Homomorphic Encryption for Privacy in Smart Connected Communities
+
 (vii) Resource Management for Security and Privacy Applications in Connected Communities
+
 (viii) New Threat Models and Challenges for Pervasive Security in Connected Communities
+
 (ix) Economic, Social, and Human Aspects of Security in Connected Communities
+
 (x) Smart Grid, Transportation and Infrastructure Security and Privacy.
+
 (xi)  Modeling Cascading Effects of Security Breaches in Smart Connected Communities
 (xii)  Real Case Studies on Live SCC Systems.
+
 
 ### Important Dates
 
@@ -31,7 +42,7 @@ Workshop Dates:  Jan 4-7, 2019
 
 ### Organizing
 
-  #### Program Chairs
+   Program Chairs
 
     Shameek Bhattacharjee, Western Michigan University (shameek DOT bhattacharjee AT wmich DOT edu)
     Abhishek Dubey, Vanderbilt University, (abhishek.dubey@vanderbilt.edu)
